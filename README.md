@@ -9,8 +9,6 @@ Data visualization is the graphical representation of information and data. By u
 
 ## Algorithm:
 
-### Step 1: Data Collection
-
 **Step 1: Data Collection:**
    - Import the dataset from a reliable source (e.g., CSV, database, API).
    - Load the dataset into a suitable data structure (e.g., Pandas DataFrame). 
